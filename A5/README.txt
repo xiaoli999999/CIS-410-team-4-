@@ -1,0 +1,1 @@
+please unzip the "final.zip" package and import MayaPy to PyCharm and open flexibleFace.ma with Maya, please make sure "3.png" and "flexbleFace.ma" are in the same directory beacause "3.png" is the texture image for the eyes in "flexbleFace.ma".
